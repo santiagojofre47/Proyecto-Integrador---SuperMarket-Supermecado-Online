@@ -1,0 +1,1 @@
+Para probar la página, primero debes importar la base de datos, luego debes instalar todas las dependencias del backend (recomendable crear un etorno virtual), y para el frontend (Tener instalado Node Js)
